@@ -2,16 +2,17 @@
 
 This is UoA XZEN813's submission for MSA 2019 AI and Machine Learning Assignment.
 
-It includes links to Microsoft's online jupyter notebooks where the results can be viewed quickly by collaborators.
+Here I create a RandomForest model to predict if an person from the united states will have an income over 50K
 
+Azure Notebook Link:
+[https://notebooks.azure.com/PathToLife/projects/usaincomepredict](https://notebooks.azure.com/PathToLife/projects/usaincomepredict)
+
+Tasks:
 - create an Azure Notebook
 - find data to analyse
 - wrangle data to prepare it for machine learning
 - analyse it to get a gist of what's going on
 - run a machine learning model on the data and use the model to make predictions
-
-Azure Notebook Link:
-[https://notebooks.azure.com/PathToLife/projects/usaincomepredict](https://notebooks.azure.com/PathToLife/projects/usaincomepredict)
 
 # Assignment Checklist
 
