@@ -1,6 +1,6 @@
 # Introduction
 
-This is UoA XZEN813's submission for MSA 2019 AI and Machine Learning Assignment.
+This is my submission for MSA 2019 AI and Machine Learning Assignment.
 
 Here I create a RandomForest model to predict if an person from the united states will have an income over 50K
 
